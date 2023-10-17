@@ -1,0 +1,16 @@
+body {
+    font-family: 'Urbanist', sans-serif;
+}
+
+#kaomoji {
+    font-family:"ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro",Osaka, "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+}
+
+.inner-wrapper {
+    width: 95%;
+}  
+@media (min-width: 992px) {
+    .inner-wrapper {
+        width: 60%;
+    }    
+}
